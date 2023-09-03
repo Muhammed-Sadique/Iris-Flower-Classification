@@ -8,10 +8,10 @@ The dataset contains three species: Setosa, Versicolor, and Virginica. The goal 
 
 # Visualizations
 
-**Correlation Heatmap:** Explore feature relationships.
-**Categorical Heatmap:** Compare feature means by species.
-**Pair Plot:** Visualize feature pairs colored by species.
-**Scatterplot:** Understand the relationship between "Petal.Length" and "Sepal.Width."
+* Correlation Heatmap: Explore feature relationships.
+* Categorical Heatmap: Compare feature means by species.
+* Pair Plot: Visualize feature pairs colored by species.
+* Scatterplot: Understand the relationship between "Petal.Length" and "Sepal.Width."
 
 # Model Training
 * Logistic Regression
